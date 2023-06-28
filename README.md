@@ -10,3 +10,9 @@ This was made possible using the KMean method and dimensionality reduction syste
 In terms of hotel recommendation, inputs that the user will enter as different available tags (which will help identify the type of travel) and then the previously found destination were used. Based on user reviews and based on advertising plans, it was possible to compile a list of which hotels come closest to the user's needs.
 
 ![KMeans](https://github.com/Edoardo24/Trip_Recommendation_system/assets/46709461/35b09302-1990-4132-aae2-d9bfb1b86389)
+
+
+## Author
+Edoardo Berardi Vittur
+Ali Yassine
+Ethan Greene
