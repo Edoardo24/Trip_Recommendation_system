@@ -13,6 +13,6 @@ In terms of hotel recommendation, inputs that the user will enter as different a
 
 
 ## Author
-Edoardo Berardi Vittur
-Ali Yassine
-Ethan Greene
+- Edoardo Berardi Vittur
+- Ali Yassine
+- Ethan Greene
