@@ -12,7 +12,7 @@ In terms of hotel recommendation, inputs that the user will enter as different a
 ![KMeans](https://github.com/Edoardo24/Trip_Recommendation_system/assets/46709461/35b09302-1990-4132-aae2-d9bfb1b86389)
 
 
-## Author
+## Authors
 - Edoardo Berardi Vittur
 - Ali Yassine
 - Ethan Greene
